@@ -1,0 +1,16 @@
+{
+	"name": "adfdevonmoproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97c76613-3ccd-47ab-a3f3-f389a9d7207b",
+		"tenantId": "acd63275-e161-47b9-bd8e-c3ada34fd2b3"
+	}
+}

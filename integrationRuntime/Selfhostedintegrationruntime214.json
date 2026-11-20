@@ -1,0 +1,13 @@
+{
+	"name": "Selfhostedintegrationruntime214",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "for data migration from sql server",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/79207f28-8118-4692-bcb7-68f45c8aaa76/resourcegroups/rgdevcheronproject/providers/Microsoft.DataFactory/factories/adfdevcheron/integrationruntimes/integrationRuntime24",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
